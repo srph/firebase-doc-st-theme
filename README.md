@@ -1,7 +1,7 @@
 firebase-doc-st-theme
 =====================
 
-A fail imitation of the Firebase documentation code block color scheme for Sublime Text 3, built with [THTheme editor](https://github.com/aziz/tmTheme-Editor) by [@aziz](https://github.com/aziz/).
+A fail imitation of the color scheme of Firebase documentation code block for Sublime Text 3, built with [THTheme editor](https://github.com/aziz/tmTheme-Editor) by [@aziz](https://github.com/aziz/).
 
 ### Installation
 
@@ -16,8 +16,9 @@ Unfortunately, I am too busy to create this as a [sublime package](https://subli
 // Preferences.sublime-settings
 
 {
-	"color_scheme": "Packages/Firebase API.tmTheme",
-	//....
+	// trimmed for brevity
+	// your other settings
+	"color_scheme": "Packages/Firebase API.tmTheme"
 }
 
 ```
