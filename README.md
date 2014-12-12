@@ -3,6 +3,10 @@ firebase-doc-st-theme
 
 A (fail imitation) port for [Sublime Text 3](http://www.sublimetext.com/) of the color scheme of [Firebase documentation](https://www.firebase.com/docs/web/) code block, built with [THTheme editor](https://github.com/aziz/tmTheme-Editor) by [@aziz](https://github.com/aziz/).
 
+### Screenies
+
+![v0.0.1](http://i.imgur.com/uHe988W.png)
+
 ### Installation
 
 Unfortunately, I am too busy to create this as a [sublime package](https://sublime.wbond.net/). However, you may manually install.
